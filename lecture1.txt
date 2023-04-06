@@ -1,0 +1,19 @@
+1:
+- Vulnerability is just a potential exploitatiion in a system
+- Threats are potential harmful causes to a system
+- Control is the security of the code and how capable it is in stopping attacks
+
+2:
+- Stolen information
+- Financial loss
+- Necessary information no longer accessible
+
+3:
+- Tampering with assets
+- Monitoring of systems
+- Stolen confidential information
+
+4:
+- Leaked confidential data
+- Private in-company emails
+- 
