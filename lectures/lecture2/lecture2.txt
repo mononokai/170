@@ -1,0 +1,23 @@
+Since I didn't get to do the class exercise, I built a Python based AES encryptor to be able to encrypt my own messages. Here's the input and output:
+Input: Hello, I am David and this is my encryptor
+Encrypted message: j��iq/�Rv���6T�#O'o��U�-��p#���Pp��5~ɶz?�{��h��H�f�R��Pq8��
+Key: �T�����z���! c[��͞^0wOSt��BG�
+Decrypted message: Hello, I am David and this is my encryptor
+
+- Do you think Caesar cipher is secure in modern times? Why or why not?
+    The Caesar cipher is absolutely not secure anymore. The ciphers that are being used for the things we do, view, save, read, write, send etc. are all extremely more advanced. If they weren't, nothing would be safe, because that cipher is very easy to decipher with modern technology.
+
+- Do you think Caesar cipher was secure when he invented it? Why or why not?
+    I do believe it was secure then. Back then, not everyone had a great vocabulary or could necessarily even read. That, combined with the fact that they didn't have computers that could attempt to crack the cipher a million times a second, means there was a lot less danger or likelihood of a problem arising from the encrypted message getting intercepted.
+
+- Crack this Caesar cipher - Twxf cqjc hxd vjccna jwm cqjc hxd jan uxenm. Nenahxwn pxnb cqaxdpq cxdpq crvnb jwm qjambqryb. Kdc wx vjccna fqjc qjyynwb, hxd bqxdum wnena zdnbcrxw hxda bnuo fxacq. 
+    Know that you matter and that you are loved. Everyone goes through tough times and hardships. But no matter what happens, you should never question your self worth.
+
+- Can you crack this caesar cipher without a computer: Lipps xlivi!
+    Hello There!
+
+- Can you decipher the secret message?
+    
+
+
+
